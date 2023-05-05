@@ -2,7 +2,7 @@ package com.java.map;
 
 import java.util.List;
 
-public class Customer {
+ public class Customer {
 	
 	 private int id;
 	    private String name;
