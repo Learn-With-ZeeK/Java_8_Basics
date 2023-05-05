@@ -21,7 +21,7 @@ public class SortListDemo {
 		
 		System.out.println("----------------");
 		
-		                // Sorting salary in ascending order of departmentName in List Output
+		                 // Sorting salary in ascending order of departmentName in List Output
 		employees.stream().sorted(Comparator.comparing(Employee::getDept)).forEach(System.out::println);
 
 	}
