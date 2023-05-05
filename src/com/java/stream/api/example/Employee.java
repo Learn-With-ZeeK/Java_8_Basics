@@ -6,7 +6,7 @@ public class Employee {
 	private String dept;
 	private long salary;
 
-	public int getId() {
+	 public int getId() {
 		return id;
 	}
 
