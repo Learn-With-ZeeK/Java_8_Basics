@@ -3,7 +3,7 @@ package com.java.map;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class MapVsFlatMap {
+ public class MapVsFlatMap {
 	
 	 public static void main(String[] args) {
 
