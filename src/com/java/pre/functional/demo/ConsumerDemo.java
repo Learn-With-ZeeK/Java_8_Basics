@@ -16,7 +16,7 @@ public class ConsumerDemo {
 		
 		// Using extension of Consumer Interface(forEach loop in stream)
 		List<Integer> list1 = Arrays.asList(1, 2, 3, 4, 5);
-        list1.stream().forEach(t -> System.out.println("print  : " + t));
+         list1.stream().forEach(t -> System.out.println("print  : " + t));
 
 	}
 
