@@ -1,1 +1,1 @@
-Code for Consumer,Predicate and Supplier Interface 
+Code for Consumer, Predicate and Supplier Interface 
