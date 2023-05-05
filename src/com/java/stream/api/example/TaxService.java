@@ -19,11 +19,11 @@ public class TaxService{
 	}
 
 	public static void main(String[] args) {
-		         //Print true Case(after question mark)
+		          //Print true Case(after question mark)
 		System.out.println(evaluateTaxUsers("tax"));
 		System.out.println("--------------");
 		
-		       //Print false Case(after semicolon)
+		        //Print false Case(after semicolon)
 		System.out.println(evaluateTaxUsers("taxes"));
 	}
 
